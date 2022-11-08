@@ -9,7 +9,7 @@
 All calculations and recommendations are based on extensive research, sources included in sources.txt
 
 ## INSTALLATION
-FourEyes is a python file. Before running FourEyes, you will additionally need to install:
+SMART SELECT GLASSES is a python file. Before running SMART SELECT GLASSES, you will additionally need to install:
 * OpenCV
 * PIL
 * NumPy
